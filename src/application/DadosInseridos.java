@@ -1,6 +1,6 @@
 package application;
 
-public class Datos {
+public class DadosInseridos {
 	/* "DADOS A SEREM DIGITADOS POR EXEMPLO"
 	 * 
 	 *  Enter client data:
